@@ -1,4 +1,4 @@
-package com.github.stokito.unitTestExample.calculator;
+package com.github.CI_Tests.unitTest.calculator;
 
 import junit.framework.Assert;
 import org.junit.Test;
